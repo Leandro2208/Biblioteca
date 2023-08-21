@@ -1,8 +1,8 @@
 @import url("styles/header.css");
 
 :root{
-    --cor-de-fundo: #fdf3fe;
-    --branco: #ffff;
+    --cor-de-fundo: #ab33b6;
+    --branco: #4686c2;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
 }
