@@ -1,14 +1,16 @@
 @import url("styles/header.css");
 
 :root{
-    --cor-de-fundo: #eabaee;
-    --branco: #ffffff;
+    --cor-de-fundo: #fdf3fe;
+    --branco: #ffff;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
+    --amarelo: #EFCD2F;
+    --roxo: #ac78ba;
 }
 body{
     background-color: var(--cor-de-fundo);
 }
 h1{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
 }
